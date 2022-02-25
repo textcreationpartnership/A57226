@@ -1,0 +1,444 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Providence and precept, or, The case of doing evil that good may come of it stated and resolved according to Scripture, reason, and the (primitive) practice of the Church of England : with a more particular respect to a late case of allegiance &amp;c. and its vindication in a letter to the author.</title>
+            <author>Richardson, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57226</idno>
+            <idno type="STC">Wing R1377</idno>
+            <idno type="STC">ESTC R24095</idno>
+            <idno type="EEBO-CITATION">07951589</idno>
+            <idno type="OCLC">ocm 07951589</idno>
+            <idno type="VID">40667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1211:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Providence and precept, or, The case of doing evil that good may come of it stated and resolved according to Scripture, reason, and the (primitive) practice of the Church of England : with a more particular respect to a late case of allegiance &amp;c. and its vindication in a letter to the author.</title>
+                  <author>Richardson, Mr.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>34 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Aberdeen University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Good and evil.</term>
+               <term>Providence and government of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40667:1" rendition="simple:additions"/>
+            <p>
+               <hi>PROVIDENCE</hi> and <hi>PRECEPT:</hi> OR, THE CASE OF <hi>Doing Evil that Good may come of it,</hi> STATED and RESOLVED; According to <hi>Scripture, Reaſon,</hi> and the <hi>(Primitive) Practice</hi> OF THE CHURCH of <hi>ENGLAND.</hi> With a more particular Reſpect to a Late <hi>Caſe of Allegiance,</hi> &amp;c. <hi>and its Vindication.</hi>
+            </p>
+            <p>
+               <hi>In a Letter to the Author.</hi>
+            </p>
+            <p>The Second Edition.</p>
+            <q>
+               <p>And the Lord ſaid unto him, Wherewith? and he ſaid, I will go forth, and I will be a lying Spirit in the Mouth of all his Prophets.
+<bibl>
+                     <hi>2 Kings 22.22.</hi>
+                  </bibl>
+               </p>
+               <p>A wonderful and horrible Thing is committed in the Land.</p>
+               <p>The Prophets propheſie falſly, and the Prieſts bear rule by this means, and my People love to have it ſo: and what will ye do in the end there<g ref="char:EOLhyphen"/>of.
+<bibl>
+                     <hi>Jer. 5.30, 31.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:40667:2"/>
+            <pb n="1" facs="tcp:40667:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have at laſt by the help of a good Friend (my Cir<g ref="char:EOLhyphen"/>cumſtances being ſuch I could not purchaſe them) peruſed your <hi>Caſe of Allegiance,</hi> &amp;c. <hi>and its Vindi<g ref="char:EOLhyphen"/>cation:</hi> And finding them both of a Piece, I ſhall not go about to divide what you have ſo <hi>Providentially</hi> joyned. And therefore it will be needleſs to ſpeak to the latter, by reaſon it ſtands only upon the Founda<g ref="char:EOLhyphen"/>tion of your former; the Removal of which will be like <hi>Sampſon</hi>'s pulling down the Pillars, or main Prop, ſo that conſequently the whole Fabrick muſt fall to the Ground. But before I enter the Field againſt ſuch a mighty Champion and brave Challenger, (that is Ar<g ref="char:EOLhyphen"/>med Cap-a-pe, and Charges as it were in Armour) I will (for ſome Reaſons) let you know what I am, by telling you what I am not; and alſo the Reaſon of this my bold Undertaking. As to the firſt, know then that I am neither Lawyer, Divine nor Phyſician, Scholar or Pretender to Letters, and ſo you need not fear my trou<g ref="char:EOLhyphen"/>bling you with hard Words, or philoſophical Diſtin<g ref="char:EOLhyphen"/>ctions, with the latter of which your Caſe, <hi>&amp;c.</hi> is pretty well furniſhed; but I preſume that was only to let the World ſee how nicely you could ſplit a Hair, or like a good Lawyer (for his Client) make the beſt of a bad Cauſe; which in them is tolerable, if not commen<g ref="char:EOLhyphen"/>dable: But in a Grave, Learned Divine, it looks me<g ref="char:EOLhyphen"/>thinks as odd, as a <hi>Proteſtant Prieſt preaching up a Ma<g ref="char:EOLhyphen"/>hometan
+<pb n="2" facs="tcp:40667:3"/>Doctrine, in oppoſition to Chriſtian Precept.</hi> Pray miſtake me not, as if nothing was intended by this Let<g ref="char:EOLhyphen"/>ter but a little Railery, for you ſhall find when I come to ſerious Things I can talk ſeriouſly of them, and my Deſigns are honeſt and fair; and therefore will as much as in me lies endeavour to give no Offence, by confi<g ref="char:EOLhyphen"/>ning my Diſcourſe to Generals, without concerning my ſelf with any Particulars: For my aim is not to expoſe bad Men but ill Principles, which I am ſure are deſtru<g ref="char:EOLhyphen"/>ctive to all Civil Governments in the World. And in Proſecution of which, I will at your own Game (for nothing but Diamonds cut Diamonds) play you <hi>Text</hi> againſt <hi>Text,</hi> and then leave your ſelf, or any other <hi>Providential</hi> Divine, to judge of the matter. I conſeſs you have (according to your own ſtating the Caſe) taken a great deal of Pains in transferring an Allegiance from a Legal and Rightful King to a <hi>Providential</hi> one, or (in your own Phraſe) from the Perſon who hath ſtill a Legal Right (and,
+<note place="margin">Pag. 26.</note> as you ſay, he may recover it if he can) to another, whom your ſelf owns (for there cannot be two Legal Rights at one and the ſame time) hath no ſuch Title; and all by a nice Di<g ref="char:EOLhyphen"/>ſtinction,
+<note place="margin">Pag. 16.</note> Though the Man is in Being ſtill, the King is gone; which Learned Diſtinction I preſume you took from the Meaſures that was taken in Forty one, by Reaſon 'tis ſo agreeable with that Rebel Notion (which our Law condemns) <hi>of taking up Arms againſt the King's Perſon to defend his Authority;</hi> which Republican Notion I am ſure can never be ſerviceable to the preſent, nor any <hi>thorough Settlement</hi> whatever. And I am confident you did not meet with any ſuch Doctrine in Biſhop <hi>Overal</hi>'s Convocation Book. Which happy Book, if you had not <hi>Providentially</hi> met with, the Church, as well as the State, had (as to that Point) loſt a great Cham<g ref="char:EOLhyphen"/>pion,
+<pb n="3" facs="tcp:40667:3"/>and poor diſtreſſed Subjects the Advantage of knowing their Duties to the Supreme Authority when ever a Civil Government is changed, by Peoples fol<g ref="char:EOLhyphen"/>lowing the conduct of your <hi>Providence</hi> contrary to <hi>Precept.</hi>
+            </p>
+            <p>But it may be objected, Why ſhould I concern my ſelf with Things ſo much out of my way? Or, as the ſaying is, <hi>A Cobler ſhould not go beyond his Laſt.</hi> To which I anſwr,</p>
+            <p>A Stander by may (as often it happens) ſee more than a Gameſter; and ſo it commonly appears when as opportunity ſerves he diſcovers the Miſtake. Beſides, though I am but poor in Purſe, yet I am rich in Faith, and inclinable to believe (with ſome old Philoſophers I have heard talk of) my Soul may not be inferior to other Bodies let them ſhine never ſo Gay or Glittering. And (as you, uſe to tell us) God is not a Reſpecter of Perſons; which is a good Argument for me, and every good Chriſtian, to ſet a value upon his Soul, let his Body be never ſo poor and contemptible: And that is one Reaſon of my Enquiry into the Reaſons you have given the World, both for your conforming and non-confor<g ref="char:EOLhyphen"/>ming to the preſent, <hi>&amp;c.</hi> For you (like the Children of <hi>Iſrael</hi>) did halt along time between two Opinions; and (I am apt to believe) had not you met with Some<g ref="char:EOLhyphen"/>thing beſides the Convocation Book, you had (as you tell us) perhaps <hi>ſtuck</hi> till this time where you did <hi>ſtick;</hi> for <hi>ſtick you did,</hi> till Mr.
+<note place="margin">Dr. <hi>Sher<g ref="char:EOLhyphen"/>lock's</hi> Pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Jenkins</hi> kind hand (more than the Biſhop's Convocation Book, as I ſhall ſhew you by and by) relieved and haled you out of the Mire, and ſet you ſafe upon dry Land, on which you now ſtand as firm as a Rock.</p>
+            <p>But before I enter upon the Premiſes, I will give you a ſecond Reaſon (which is indeed the chief) for my ſo
+<pb n="4" facs="tcp:40667:4"/>doing, <hi>viz.</hi> I having prov'd my Soul of as Noble an Ex<g ref="char:EOLhyphen"/>tract as your own; and that the Eternal Peace and Wel<g ref="char:EOLhyphen"/>fare of it depends upon our Allegiance and Submiſſion to the Supreme Authority: <hi>For they</hi> (as you ſay) <hi>that reſiſt, ſhall receive to themſelves damnation.</hi> I judge it well worth the while to obſerve the Apoſtle's Rule,
+<note place="margin">1 Theſſ. 5.21.</note> of <hi>proving all things, and holding faſt that which is good.</hi> Which is (I hope) a ſufficient Reaſon to excuſe my Pre<g ref="char:EOLhyphen"/>ſumption, in enquiring whether you are not more miſta<g ref="char:EOLhyphen"/>ken in St. <hi>Paul</hi>'s meaning as to your New Caſe, <hi>&amp;c.</hi> than you were in the Caſe you had formerly in your Eye, (as you tell us in the <hi>Preface</hi>) when you proved he meant no ſuch thing. And as to that Caſe, you ſtill think you were in the right, and, truly, ſo do I, and yet you muſt be miſtaken either then or now. And that it was then, and not now, do's not appear to any Body but your ſelf, that I know of, neither have you produced any Authority to convince the World that you are more in the right now, notwithſtanding you have (poſſibly) another Caſe in your Eye: ſo that, for ought I can ſee, you may be as much out now, as you were before; and, if ſo, what are we the better for your new Diſcoveries, (in your <hi>Caſe of Allegiance</hi>) when you give us ſo little Encourage<g ref="char:EOLhyphen"/>ment (from your being ſo liable to miſtake) to believe you.</p>
+            <p>'Tis true, you have taken a great deal of pains to make the <hi>Convocation Book</hi> ſpeak (as you would make the World think) very plain to the Point; but how much it ſerves your turn, (notwithſtanding your nice Diſtin<g ref="char:EOLhyphen"/>ctions, and ringing the Changes between <hi>Divine</hi> and <hi>Humane Entails, Legal</hi> and <hi>Providential Kings,</hi> and <hi>Tho<g ref="char:EOLhyphen"/>row Settlements,</hi> &amp;c.) hath already been demonſtrated by more skilful hands. But though that Book did you but little ſervice, yet there was other Writings that would
+<pb n="5" facs="tcp:40667:4"/>have done the trick to an hair, ſuch as <hi>Hobs, Baxters, Owens,</hi> and <hi>Jenkins,</hi> &amp;c. But, I preſume, your not ſtrengthening your Caſe, <hi>&amp;c.</hi> with quoting thoſe Au<g ref="char:EOLhyphen"/>thors, was becauſe their Tenents did not ſo well agree with the Doctrine of that Church which you pretend to be of. But to the Point in hand; and the better to in<g ref="char:EOLhyphen"/>form my ſelf and others, I will (as well as I can) obſerve ſome kind of method, <hi>viz.</hi>
+            </p>
+            <p>I will firſt lay down your providential <hi>Hypotheſis</hi> on which your Caſe, <hi>&amp;.</hi> is built, and (as you have very wiſe<g ref="char:EOLhyphen"/>ly obſerved) if the World do not judge it a right Rule to go by, you know not where to fix one.
+<note place="margin">Pag. 24.</note>
+            </p>
+            <p>Secondly, I will examine thoſe Texts of Scripture which you quote to prove it.</p>
+            <p>Thirdly, I will draw up ſome uſeful Inferences, very neceſſary for practical Reformers of Church and State.</p>
+            <p>But before I proceed,
+<note place="margin">Dr. <hi>Sher<g ref="char:EOLhyphen"/>lock's Pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> I cannot but take notice of <hi>that one thing you thought neceſſary to recant;</hi> but though it is but one, yet it is the only one on which the Caſe turns, <hi>&amp;c.</hi> And truly you were in the right, for otherways you had given room for <hi>Richard againſt Baxter,</hi> &amp;c. Be<g ref="char:EOLhyphen"/>ſides, your <hi>Caſe of Allegiance,</hi> if compar'd with your <hi>Caſe of Reſiſtance,</hi> would have been very little to the pur<g ref="char:EOLhyphen"/>poſe, ſave only to ſerve a preſent Caſe which has poſſibly fallen in your Eye. And if ſo, 'tis but reaſonable your Judgment ſhould vary (not ſo much with the Times, but) according to the different Caſes that at different Times chance to fall in your Eye. And alſo 'tis but juſt upon every ſuch occaſion to ſtrain (I do not mean Conſcience, but) your Art and Skill to make our bleſſed Lord and the Apoſtles to go hand in hand with you to gain the Point. But now if any Body ſhould ask me this Queſtion, <hi>viz.</hi> How ſhall we know the Doctor did better underſtand St. <hi>Paul</hi> when he writ his <hi>Caſe of Allegiance,</hi> than he did
+<pb n="6" facs="tcp:40667:5"/>when he writ his <hi>Caſe of Reſiſtance?</hi> Let me periſh if I could tell what to anſwer, and therefore I leave that, Sir, to your ſelf, and ſo proceed to what I promis'd, <hi>viz.</hi> the laying down the <hi>Hypotheſis</hi> on which your Caſe, <hi>&amp;c.</hi> is built. And I cannot do that better, than in the words of a great Man, (when Time was) as I have found them ready drawn up to my hand about 40 Years ago; and I dare be bold to ſay, they would have been as good a <hi>Preface</hi> to your Book as that you have writ; and do but read your own Name for his, and you will, perhaps, be pleaſed, to ſee how exactly it agrees with your own No<g ref="char:EOLhyphen"/>tions of <hi>Providential Rulers,</hi> and <hi>Civil Governments;</hi> but take them in the Author's own words, and then judge of the matter.</p>
+            <p>[Mr. <hi>Jenkins</hi>'s Recantation: Or, his Acknowledgment, by way of Petition, to the Parliament, wherein he confeſſeth his Sorrow for his acting againſt the State, and the unſutableneſs of it to his Calling and Profeſſion. As alſo the Parliaments Anſwer to his Petition, as it was printed in the Year <hi>1651.]</hi>
+            </p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the Supreme Authority the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England.</hi>
+                  </head>
+                  <head type="sub">
+                     <hi>The humble Petition of</hi> William Jenkins <hi>Priſoner.</hi>
+                  </head>
+                  <opener>Humbly ſheweth,</opener>
+                  <p>
+                     <hi>THat Your Petitioner is unfeignedly ſorrowful for all his late Miſcarriages, whether teſtified againſt him, or acknowledged by him; and for the great and ſinful un<g ref="char:EOLhyphen"/>ſutableneſs of them to his Calling and Condition. That upon earneſt ſeeking of God, and diligent enquiring into his Will,
+<pb n="7" facs="tcp:40667:5"/>Your Petioner is convinced that the Alteration of all Civil Governments are ordered by and founded by the wiſe Provi<g ref="char:EOLhyphen"/>dences of God,</hi> who removeth Kings, ſetteth up Kings,
+<note place="margin">☞</note> ruleth in the Kingdoms of Men, and giveth them to whomſoever he will. <hi>That the Providences of this God have, in the Judgment of Your Petitioner, as evidently ap<g ref="char:EOLhyphen"/>peared in the Removing of others from and Inveſting Your Honours with the Government of this Nation,
+<note place="margin">☞</note> as every they appeared in the taking away or beſtowing of any Govern<g ref="char:EOLhyphen"/>ment in any Hiſtory of any Age in the World. That he ap<g ref="char:EOLhyphen"/>prehends that a Refuſal to be Subjects to this preſent Autho<g ref="char:EOLhyphen"/>rity,
+<note place="margin">☞</note> under the Pretence of upholding the Title of any upon Earth, is a Refuſal to acquieſce in the wiſe and righteous Pleaſure of God; ſuch an oppoſing of the Government ſet up by the Sovereign Lord of Heaven and Earth, as none can have Peace either in Acting in or Suffering for. And Your Petitioner looks upon it as his Duty to yield to this Autho<g ref="char:EOLhyphen"/>rity all active and chearful Obedience in the Lord, even for Conſcience ſake, To promiſe (he being required) Truth and Fidelity to it; and to hold forth the ground of his ſo doing to any as God ſhall call him thereunto,</hi> &amp;c.</p>
+               </body>
+            </floatingText>
+            <p>The reſt relates only to his particular Condition and Impriſonment; an Inlargement from which he very humbly and ſubmiſſively prayed for, which was granted him in the following Words.</p>
+            <p>
+               <hi>Reſolved that Mr.</hi>
+               <note place="margin">☞</note> Jenkins <hi>be pardoned both for his Life and Eſtate, and that Mr. Attorny General be required to prepare the Pardon to be paſſed under the Great Seal of</hi> England, <hi>and that his Body be forthwith diſcharged from Impriſonment, and his Eſtate from Sequeſtration.</hi>
+            </p>
+            <p>Which extraordinary Favour he obtained through the <hi>Mildneſs</hi> of that Government to poor Delinquents. And
+<pb n="8" facs="tcp:40667:6"/>here give me leave to obſerve, <hi>(viz.)</hi> Had ſuch a Caſe been printed in <hi>Oliver</hi>'s time, it would have poſed a good Divine (no diſpraiſe to your ſelf) to know, whe<g ref="char:EOLhyphen"/>ther you had taken your Notions of <hi>Providence</hi> from Mr. <hi>Jenkin</hi>'s Petition, or he his from your <hi>Caſe of Alle<g ref="char:EOLhyphen"/>giance:</hi> For, in truth, they are ſo very like, that it creates a juſt Suppoſition of your being one of his Pu<g ref="char:EOLhyphen"/>pils. And this is the firſt Thing I promiſed, <hi>(viz.)</hi> The laying down the Hypotheſis on which the Foundation of your Caſe, <hi>&amp;c.</hi> ſtands. And I will appeal to all Man<g ref="char:EOLhyphen"/>kind, Whether this <hi>Providential</hi> Principle would not ſerve for the French King, the Grand Signior, nay, a <hi>Marſſinello,</hi> or a Proteſtant Joyner? provided he could but get enough of the Mob on his ſide to knock out the Brains of their Oppoſers, the better to inſtruct them to whom the Sovereign Power do belong; eſpecially when they are ſtrong enough to <hi>Cruſh</hi> them into Obedience. For that is (it ſeems) one Rule you go by to know when a Government is thoroughly ſettled.
+<note place="margin">Pag 6.</note> But thanks be to God he hath given us a better; for if Power to <hi>Cruſh</hi> be a ſufficient one, then no body can deny but <hi>Marſſinello</hi>'s was a thorough Settlement in <hi>Naples.</hi> And though his Reign was but ſhort yet his Power was great, and he did <hi>Cruſh</hi> all that oppoſed him; and had he not met with a Stroke from a <hi>Providential</hi> Hand (which poſſibly thought <hi>Killing no Murther</hi>) he might have li<g ref="char:EOLhyphen"/>ved to have given Laws like a Conqueror to that great and populous City. And by your, and Mr. <hi>Jenkin</hi>'s Hy<g ref="char:EOLhyphen"/>potheſis, a Divine Right for ſo doing.</p>
+            <p>Which brings me to the ſecond Thing I promiſed, <hi>(viz.)</hi> The examining thoſe Texts of Scripture which you quote to prove your new Doctrines by. And though thoſe are ſeveral, yet the main ſtreſs of the point lies on <hi>Romans</hi> 13.1, 2.
+<note place="margin">Pag. 19.</note> 
+               <hi>Let every Soul be ſubject to the higher Powers. For their is no Power but of God: the Powers
+<pb n="9" facs="tcp:40667:6"/>that be are ordained of God. Whoſoever therefore reſiſteth the Power, reſiſteth the Ordinance of God: and they that reſiſt ſhall receive to themſelves damnation.</hi> Now I muſt confeſs ſince you have taken leave of your own Judg<g ref="char:EOLhyphen"/>ment of the Apoſtle's meaning in that Place, it will be the more difficult to convince you, by reaſon it will not perhaps ſute ſo well with the preſent Caſe that you have in your Eye. However (from a knowledge of your humble Chriſtian temper of not <hi>thinking your ſelf too old to learn</hi>) I will preſume to attempt it,
+<note place="margin">Preſ.</note> though I know at the ſame time my ſelf uncapable; and therefore am in<g ref="char:EOLhyphen"/>clinable to believe you had far more perſwaſive Reaſons for Recanting your former Tenets than what you are pleaſed to give us in Print. But to the point; 'Tis true the Apoſtle requires a Subjection to the Higher Powers, <hi>&amp;c.</hi> but can it be imagined that the Apoſtle means by the Higher Power any that ſhall attain or get poſſeſſed of it by Force or Violence? (which your Caſe, according to your preſent underſtanding of the Apoſtle, ſeems to imply) Or by Subjection, a transferring an Allegiance which becomes due only to a Rightful and Lawful Prince, to another which has no other Right to be ſo but Power to <hi>Cruſh, &amp;c.</hi> then it is rational to conclude, There never was any ſuch Thing as an Uſurpation in the World; and though ſome have waded to the Throne in Blood, and their Crimes have been of a Crimſon dye, yet their be<g ref="char:EOLhyphen"/>ing but once fixt there, they become Innocent, and as White as Snow: And being inveſted with <hi>your Authority</hi> muſt not only be ſubmitted to, but owned as a True and Rightful Liege Lord and Sovereign. And all for this Reaſon, <hi>(viz.) They that Reſiſt ſhall receive to them<g ref="char:EOLhyphen"/>ſelves Damnation.</hi> And yet, with your good leave, I ſup<g ref="char:EOLhyphen"/>poſe this word Reſiſtance is not to be underſtood in ſuch a Latitude as you would have us underſtand that of Power; For then the Refuſal of our Prince's Command,
+<pb n="10" facs="tcp:40667:7"/>let it be what it will, would entitle a Man to Damna<g ref="char:EOLhyphen"/>tion: For he that refuſeth the Commands of his Prince, doth reſiſt,
+<note place="margin">Dan. 3 21.</note> as <hi>Shadrach, Meſhach,</hi> and <hi>Abednego,</hi> for which they were all caſt into a fiery Furnace, (which was in<g ref="char:EOLhyphen"/>deed the heighth of <hi>Paſſive Obedience;</hi>) yet I believe no Body ſuppoſed them to be in that miſerable ſtate for diſ<g ref="char:EOLhyphen"/>obeying the King's Command. From which I obſerve, (as I have heard divers of your Function ſay) we are not in many places of Scripture to take our bleſſed Sa<g ref="char:EOLhyphen"/>viour, or the Apoſtles words in a ſtrict literal Senſe, but according to the beſt Expoſition that agrees with the general Scope and Deſign of the Goſpel, and then I am ſure it is both natural and rational to underſtand that place of St. <hi>Paul,</hi> viz. <hi>There is no Power but of God,</hi> &amp;c. muſt be all legal and rightful Power, which muſt certain<g ref="char:EOLhyphen"/>ly be imply'd, as your ſelf once thought you had ſuf<g ref="char:EOLhyphen"/>ficiently proved.</p>
+            <p>That there is no Power but of God is true indeed, for God being Omnipotent, there cannot be any Power but by his permiſſive, or approbative Will, which was always allowed of as a Divine Diſtinction of God's Will; and without it, how harſh and untunable would ſeveral Texts of the Bible ſound in the Ears of a good Chriſtian, as for Inſtance:
+<note place="margin">Amos 3.16.</note> 
+               <hi>Shall there be Evil in the City, and I the Lord hath not done it?</hi> And now to take this place in the Senſe that you do the Apoſtle of Power, is certainly to make God the firſt and prime Cauſe of all Evil that ſhall be done in a City, or indeed any where elſe; which Notion may ſerve well enough for an Atheiſt, but how well it becomes any Body that pretends to Religion, do you judge.</p>
+            <p>I pray how many Rapes and Robberies, and cruel Mur<g ref="char:EOLhyphen"/>ders (I pray God they be not owing to ſuch horrid No<g ref="char:EOLhyphen"/>tions of Power giving a Right) have been barbarouſly committed lately in our City and Liberties of <hi>London,</hi>
+               <pb n="11" facs="tcp:40667:7"/>which Almighty God has been pleaſed to ſuffer and per<g ref="char:EOLhyphen"/>mit to be done by the powers of Hell and wicked Men, which the but taking the foregoing Text in your ſenſe of Power, <hi>&amp;c.</hi> and it frees them all, by charging the Crimes upon God himſelf, which to me appears little leſs than Blaſphemy, and it would make an honeſt Chri<g ref="char:EOLhyphen"/>ſtian's heart tremble with the thought of ſuch a No<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And then again in the Caſes of <hi>Pharaoh,</hi> where it is ſaid, <hi>God hardned</hi> Pharaoh<hi>'s heart.</hi> Now I know not what you may think, but it is the Opinion of great Di<g ref="char:EOLhyphen"/>vines, that thoſe Words ought not to be taken in a lite<g ref="char:EOLhyphen"/>ral Senſe, but that God knowing the baſeneſs and falſe<g ref="char:EOLhyphen"/>neſs of his heart, did permit the Sorcerers and Magicians of <hi>Egypt</hi> to imitate <hi>Moſes</hi> and <hi>Aaron</hi> with their Enchant<g ref="char:EOLhyphen"/>ments, which deluded <hi>Pharaoh</hi> to that degree, that he thought it was nothing but the pure effects of Magick, only he thought <hi>Moſes</hi> and <hi>Aaron</hi> to be better Conjurers than the reſt, and ſo his heart became hardned through the belief it was all but a Trick. And in like manner it may be ſaid God hardens all our hearts, when he (through our high Provocations) withdraws his Divine Spirit (which no doubt was <hi>Pharaoh</hi>'s Caſe) from us, and de<g ref="char:EOLhyphen"/>livers us up to ſtrong Deluſions, inſomuch that we be<g ref="char:EOLhyphen"/>lieve a Lye; though in truth it proceeds from our own wilful ſtubbornneſs, in not being governed by the truth of his Word, which is the everlaſting Rule we ought to be ruled by: And if we once forſake that, 'tis but juſt that God ſhould forſake us, and then 'tis no wonder if (with <hi>Pharaoh</hi>) we cry, <hi>Who is the Lord that we ſhould obey his voice? We know not the Lord, neither will we,</hi> &amp;c.
+<note place="margin">Ex. 5.2.</note> From all which (as one Text explains another) 'tis rea<g ref="char:EOLhyphen"/>ſonable to conclude, that St. <hi>Paul</hi>'s requiring Subjection to all Powers, his meaning is all lawful Powers; for if (as no Body doubts) there be any ſuch thing as unlaw<g ref="char:EOLhyphen"/>ful
+<pb n="12" facs="tcp:40667:8"/>Power, 'tis Frenzy to ſuppoſe he ſhould require Sub<g ref="char:EOLhyphen"/>jection to them any other ways than it is conſiſtent with common Prudence and Self-preſervation. I mean ſuch a Subjection as our bleſſed Lord tells us of, which is paid to a Thief if he be ſtronger than the ſtrong Man whoſe Houſe he robs.
+<note place="margin">Mat. 12.29</note> Beſides, there be few but what knows there is a mighty difference between Subjection and Alle<g ref="char:EOLhyphen"/>giance, for Example, If a Man lives in <hi>France</hi> or <hi>Spain,</hi> or any other Princes Country, he muſt, nay ought to be ſubject to the Cuſtoms and Laws of any of thoſe Princes Countries where he lives; but at the ſame time his Alle<g ref="char:EOLhyphen"/>giance can be due to none but him whoſe natural born Subject he is.</p>
+            <p>But the better to underſtand this place of St. <hi>Paul,</hi> (and to reconcile you (if poſſible) to your own former Notions of it) let us compare it with another to the ſame effect, (for Divines tell us we muſt, for the better underſtanding the Scriptures,
+<note place="margin">Prov. 8.15</note> compare one Text with another) <hi>By me Kings reign, and Princes decree juſtice.</hi> That is, all legal and rightful Kings, and the Words im<g ref="char:EOLhyphen"/>ply as much; for how can any Body be God's Vicegerent upon Earth without his Authority, and then if ſo, it na<g ref="char:EOLhyphen"/>turally follows;
+<note place="margin">Eccl. 8.4.</note> 
+               <hi>That where the word of a King is there is Power;</hi> and <hi>who ſhall ſay to him, What doſt thou?</hi> And And why Power, becauſe he holds his Authority imme<g ref="char:EOLhyphen"/>diate from God, and to him only can be accountable for his Faults, as ſeveral great Lawyers and Divines have often told us.</p>
+            <p>But it may be objected, Has not any Body that can get themſelves poſſeſt of a Crown, and the Regalities thereunto belonging, the ſame Authority, ſince the Apoſtle ſays, <hi>There is no Power but of God,</hi> &amp;c.</p>
+            <p>To which I anſwer, That the Apoſtle means the ſame thing, <hi>viz.</hi> Legal and rightful Power, which is likewiſe there implied, for Force and Violence are different things
+<pb n="13" facs="tcp:40667:8" rendition="simple:additions"/>to Power and Authority; for Power implies an Authori<g ref="char:EOLhyphen"/>ty for its being put in execution, which diſtinguiſheth it from Force and Violence, which is nought but to Pikes and Staves commanded by the Knave of Clubs, knock out Peoples Brains, to inform their Underſtand<g ref="char:EOLhyphen"/>ings: But Power, we know, ſuppoſeth another thing, and acts by a legal Authority, as for Inſtance: A Conſtable does not commit a Man (where there is juſt Cauſe) to the Stocks or Priſon, by vertue of the Watchmen and their Staves which attend him; but by vertue of a legal Power and Authority which he derives from a Superior, and that from another, till it come to the Supreme, which is under God the King only, whoſe Authority cannot therefore be from the People who are ſubject to his, but he not to theirs, unleſs they could prove a legal Right to ſuch a Power, both from the Laws of God, and the Laws of the Land where ſuch things are done, if not, it can<g ref="char:EOLhyphen"/>not (in the way of ſpeaking) be ſaid to be done at all; for it is very uſual to ſay ſuch or ſuch a thing cannot be done, when it cannot be done legally, but in oppoſition to the Laws of God and Man. And yet by ſad Experience we know ſuch things have been done, nay, to the very Alteration of Thorow Settlements, (I preſume you will not deny) and that poſſibly there may be perſons in poſ<g ref="char:EOLhyphen"/>ſeſſion of what you call God's Power (for there is none (as you ſay) but of him) without his Authority; if not, the Holy Prophet was mightily miſtaken;
+<note place="margin">Hoſ. 8.4.</note> 
+               <hi>They have ſet up Kings, but not by me; They have made Princes, and I knew it not.</hi> Now theſe Kings the Prophet mentions, no doubt were in poſſeſſion of all the Rights and Preroga<g ref="char:EOLhyphen"/>tives, <hi>&amp;c.</hi> which gave them the Title, (as the foregoing Text ſtiles them) and yet God himſelf ſays, <hi>He knew it not.</hi> Which from your Argument of Providence ap<g ref="char:EOLhyphen"/>pears very ſtrange, for that Providence ſhould permit per<g ref="char:EOLhyphen"/>ſons to be inveſted with God's Authority, and he know
+<pb n="14" facs="tcp:40667:9"/>nothing of the matter, ſave only that they were in actual poſſeſſion, though not by him; which is a ſtrong Argument of the permiſſive and approbative Will of Heaven, and none but what are fit for a dark Room and clean Straw, but will allow it. For how unreaſonable is it to ſuppoſe that thoſe Kings or Princes that are made ſo, and not by God, (that is, that attains to it by undue Methods) can have his Authority: And for that Reaſon God was pleaſed to ſhew his juſt Reſentment of the Peoples going contrary to his Rule in thoſe matters, by leaving his Complaint upon Record, <hi>They have ſet up Kings, but not by me,</hi> &amp;c.</p>
+            <p>And ſince it appears that Kings may be ſet up, and not by God, then it naturally follows there may be two ways that perſons may come to the exerciſe of the Supreme Authority; that is to ſay, a right and a wrong, for I know no other diſtinction; and I am ſure our Saviour (though in another Caſe) ſays ſomething to the ſame purpoſe, <hi>Verily I ſay unno you,
+<note place="margin">Joh. 10.1.</note> he that entereth not by the door into the Sheepfold, but climeth up ſome other way, the ſame is a Thief and a Robber.</hi> And then conſequently has but an indifferent Title, <hi>&amp;c.</hi> Notwithſtanding he may (through Power and Strength) be in poſſeſſion, <hi>&amp;c.</hi> And I do not doubt but what is required in a Prieſt having a legal Right to his Office, the ſame will hold good in his Supe<g ref="char:EOLhyphen"/>rior the King. And ſo there was the leſs Reaſon for St. <hi>Paul</hi> (ſpeaking of the higher Powers) to diſtinguiſh what ſort of Power we ought to be ſubject to, no more than what ſort of Parents the Fifth Commandment re<g ref="char:EOLhyphen"/>quires us to honour.</p>
+            <p>But to make (if poſſible) the Caſe more plain, we will compare St. <hi>Peter</hi> with St. <hi>Paul,</hi> (and though they differed in ſome other things of leſs moment,
+<note place="margin">1 <hi>Fet.</hi> 2.13, 14.</note> yet they both agree as to this matter) <hi>Submit your ſelves to every Ordinance of Man for the Lord's ſake, whether it be to the
+<pb n="15" facs="tcp:40667:9"/>King as Supreme, or unto Governors,</hi> &amp;c. Now there is certainly two Things to be conſidered before this Sub<g ref="char:EOLhyphen"/>miſſion can become due. Firſt, The Lawfulneſs of the Authority that makes the Ordinances; and Secondly, The Lawfulneſs of the Ordinances themſelves. For this Place likewiſe cannot be taken in your Senſe; for if it ſhould, then it would oblige us to look no further, but poſitively to obey our Prince's Commands without re<g ref="char:EOLhyphen"/>ſerve, let them be what they will, and you know how much that is againſt the Grain of this Proteſtant King<g ref="char:EOLhyphen"/>dom. Then conſequently we muſt underſtand St. <hi>Peter</hi> otherways then you now underſtand St. <hi>Paul, (viz.)</hi> a Submitting to every Ordinance of Man that does not contradict thoſe of God. So that it is plain that Something is implied in thoſe Words of St. <hi>Peter</hi> more than you are willing (in your <hi>Caſe, &amp;c.</hi>) to allow, or elſe they would be a downright Contradiction to what he ſays elſewhere. <hi>Whether it be right in the ſight of God,
+<note place="margin">Acts 4 19.</note> to hearken unto you more than unto God, judge ye.</hi> So that if Ordinances (or <hi>Allegiances</hi>) of Man be ſet up contrary to thoſe of God, we are not to take notice of them, though they had all the Powers of the Earth and Hell joyned with them for their Authority. But Secondly, We ought to conſider the Rightful and Lawfulneſs of the Authority that commands a Submiſſion to their Or<g ref="char:EOLhyphen"/>dinances, <hi>&amp;c.</hi> unleſs it can be ſuppoſed there was never any but ſuch in the World. Which I am pretty ſure you will never grant, by reaſon it would condemn both the Law, and the Senſe of all the Judges in <hi>England,</hi> touching the Rebellion in King <hi>Charles</hi> the Firſt and Se<g ref="char:EOLhyphen"/>cond's Time; which I perceive coſt you ſome Time and Pains to get over, and yet could not without Blundering and making a downright Contradiction. For notwith<g ref="char:EOLhyphen"/>ſtanding all thoſe Diſtinctions you make to ſhew the Difference between that and the preſent (as you call it)
+<pb n="16" facs="tcp:40667:10"/>
+               <hi>thorough Settlement,</hi> yet it does not ſerve your turn; for whatever <hi>Cromwell</hi> and his Adherents deſigned, either to alter or deſtroy all Laws and Religion, yet (agreeable to the Principles you go upon) that makes no Diffe<g ref="char:EOLhyphen"/>rence, but he had (as he was the Supreme Magiſtrate) as good a Title to our Allegiance (according to your Senſe of the Higher Powers) as King <hi>Charles</hi> II. had before he <hi>Abdicated</hi> the Kingdom after his defeat at <hi>Wor<g ref="char:EOLhyphen"/>ceſter.</hi> All which no doubt God (for the Sins of this Nation) ſuffer'd his Judgments then to begin at his own Houſe, and with his own People; which brings me to the Approbative and the Permiſſive Will of God, which was always by your ſelves made uſe of for our not ta<g ref="char:EOLhyphen"/>king Meaſures by the proſperous Succeſs of Things, and the Proſperity of the Wicked. The Conſideration of which made the Prophet <hi>Jeremiah</hi> as it were Reaſon the Caſe with God himſelf;
+<note place="margin">Jere. 12.1.2.</note> 
+               <hi>Righteous art thou, O Lord, when I plead with thee; yet let me talk with thee of thy Judgments: Wherefore doth the way of the Wicked proſper? Wherefore are all they happy that deal very Treacherouſly? Thou haſt planted them, yea, they have taken root: they grow, yea, they bring forth fruit; thou art near in their Mouth, and far from their Reins.</hi> And this Proſperity of the Wicked had likewiſe ſtartled a great many good Men, and <hi>David</hi> himſelf was one of that Number, till he went into the Sanctuary,
+<note place="margin">Pſ. 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17</note> and conſidered there was an After-reckoning to account for. And then he could tell us of their being ſet in Slipery Places, and that their Proſperity was rather a Curſe than a Bleſſing to ripen them for Deſtruction, in Vindication of God's Righteous Dealing with Wicked and Rebellious Wretches. A no<g ref="char:EOLhyphen"/>table Inſtance of this, we have in the Caſe of <hi>Abſalem,</hi> where God permitted his Inſinuations (<hi>Oh that I were Judge in the Land,</hi> &amp;c.) to prevail ſo far, as he not only ſtole the Hearts but the Allegiance alſo of his Father's
+<pb n="17" facs="tcp:40667:10"/>Subjects, and the wiſeſt of his Father's Counſellors went over to him; inſomuch that at laſt he attempted not only to take the Crown from his Father's Head, but perſued him likewiſe to take (no doubt) his Life alſo. And had not God himſelf ſtept in between, by defeating the Counſel of <hi>Achitophel,</hi> he had peradventure (being both able and willing) gained his point. I only hint theſe Matters, becauſe you lay a great Streſs upon <hi>Pro<g ref="char:EOLhyphen"/>vidence giving a Succeſs,</hi> &amp;c. and if he had ſucceeded (as ſuch Things has been) I ſuppoſe none but what is ripe for <hi>Bedlam</hi> would have attributed it to the Will of God any other way, than it is his Will that we Kill, or Steal, or break any other of his Commandments, which we ſee he permits every day to be done. And I could put you in mind of another inſtance, which far exceeds that of <hi>Abſalom,</hi> where Almighty God was pleaſed to permit a Company of Rebels and Traytors (I may Lawfully ſo call them, by reaſon many of their Names remain ſtill upon Record) to proceed ſo far as not only Reſiſt, but Impriſon, nay, put (I had almoſt ſaid Crucifie) to Death their <hi>true Liege Lord and King;</hi> and then, like wicked <hi>Ahab,</hi> took Poſſeſſion of the Vineyard, and all by ſuch <hi>Providential</hi> Principles as yours and <hi>Hobbs</hi>'s. 'Tis true you would by a nice Diſtinction make a Difference be<g ref="char:EOLhyphen"/>tween his and yours; but it is ſo much like all the reſt that it will not paſs Muſter. And therefore all ſuch Loyalty and Allegiance that is built upon ſuch weak Foundations muſt needs (like the Houſe built upon the Sands) tumble down upon the leaſt Storm that ſhall ariſe.
+<note place="margin">Mat. 7.27.</note> But (to ſpeak in your own Phraſe) is not this to build with Stubble, and daub with untempered Mortar? So that the more that is laid upon ſuch rotten Founda<g ref="char:EOLhyphen"/>tions, do only ſerve at laſt but to make the bigger heap of Rubbiſh. For if Power and Succeſs be a ſign of pro<g ref="char:EOLhyphen"/>vidence proſpering an undertaking, then (as to Right)
+<pb n="18" facs="tcp:40667:11"/>there can be little or no difference between the Thief and the honeſt Man; for Providence are as it were alike to both, only She gives one Money or Goods, but not a ſufficient ſtrength to defend them; and gives another none, but power enough to take them. Ay but ſay you, this will not hold in little petty Robberies, (becauſe a Man may be call'd to an account by human Laws, that is (you ſay) the Reaſon) but you tell us, <hi>God is not con<g ref="char:EOLhyphen"/>fined to human Laws.</hi>
+               <note place="margin">Ca. Pa 4.</note> And therefore what he doth by Providence, will hold in ſmall matters as well as great. And I preſume if there be any difference in breaking the 8th Commandment, he that ſteals the moſt muſt be the greater Tranſgreſſor, unleſs you think that quantity leſſens the quality of the Crime. And as to that, I pre<g ref="char:EOLhyphen"/>ſume you know what a Pyrate (when accuſed) ſaid to <hi>Alexander</hi> the Great; <hi>I</hi> (ſays he) <hi>Rob but in a ſingle Ship, but Thou with great Fleets and Armies.</hi> For which bold Anſwer (as ſome ſay) <hi>Alexender</hi> pardon'd him. And it was but reaſonable, for they both acted by one and the ſame providential Principle, of Power and Suc<g ref="char:EOLhyphen"/>ceſs giving a Right.
+<note place="margin">Ca. pa. 7.</note> And I am afraid the <hi>Golden Farmer</hi> might be infected with ſome ſuch Notions of Provi<g ref="char:EOLhyphen"/>dence, from his being ſo ſucceſsful in his undertakings, for almoſt (as People ſay) 30 Years together, which made him (as the <hi>Ordinary</hi> told us) not like the Doctrin of Reſtitution.</p>
+            <p>But all that think ſo, and are fond of ſuch <hi>(Covenant) Doctrin,</hi> and do believe them true, I would adviſe them to read and conſider well the 21ſt <hi>verſe</hi> of the 50th Pſalm, <hi>Theſe things haſt thou done, and I kept ſilence: Thou thoughteſt I was altogether ſuch an one as thy ſelf; but I will reprove thee, and ſet them in order before thine eyes.</hi> Or, Eccleſ. 8.11. <hi>Becauſe ſentence againſt an evil work is not executed ſpeedily, therefore the hearts of the Sons of men are fully ſet in them to do evil.</hi> From which
+<pb n="19" facs="tcp:40667:11"/>it is evident, That Proſperity and Succeſs is no ſign of God's approving the wicked Ways and Deſigns of bad Men, eſpecially when his own Sacred Laws are broken to gain their Ends: For if we will not allow a difference between the permiſſive and approbative Will of Heaven, then (as I before obſerved) God muſt be the only Au<g ref="char:EOLhyphen"/>thor of all Evil; and how much that borders upon (if not the ſame thing we call) Blaſphemy, I ſhall leave it to your ſelf to judge.</p>
+            <p>There is one place more I remember you quoted to prove your Caſe, <hi>&amp;c.</hi> and that is our Saviour's Anſwer to that enſnaring Queſtion of the <hi>Phariſees</hi> and <hi>Herodians,
+<note place="margin">Mat. 22.17.</note> Is it lawful to give Tribute unto</hi> Ceſar, <hi>or not?</hi> But our Saviour well knowing their Deſigns, gave them an An<g ref="char:EOLhyphen"/>ſwer according, <hi>Render therefore unto</hi> Ceſar <hi>the things that are</hi> Ceſars, <hi>and unto God the things that are Gods. When they heard theſe words, they marvelled, and left him.</hi> And well they might, for his Anſwer was no more to their purpoſe than it is to yours: For what relation had this Anſwer to your Notion of Poſſeſſion and Succeſs giv<g ref="char:EOLhyphen"/>ing a Right, unleſs you had proved <hi>Ceſar</hi> had no legal Right, and ſo was (according to your own diſtinction) but a <hi>de facto,</hi> and not a legal and rightful Emperor. Be<g ref="char:EOLhyphen"/>ſides Tribute may be paid where Allegiance is not due, (as many in <hi>Flanders,</hi> and <hi>Savoy,</hi> and other places are too ſenſible of) and therefore our Saviours was a fit Anſwer to their own anſwering the Queſtion our Lord asked them, when they brought unto him a Peny: <hi>And he ſaid unto them, Whoſe is this Image and Superſcription? They ſay unto him,</hi> Ceſars. So that it is plain, our Saviour bid<g ref="char:EOLhyphen"/>ding them <hi>give unto</hi> Ceſar <hi>the things that are</hi> Ceſars, <hi>and unto God the things that are Gods,</hi> is not to your purpoſe, for our Saviour we find in leſſer matters declines being a Judge; <hi>And one of the company ſaid unto him, Maſter,
+<note place="margin">Lu 12 14.</note> ſpeak unto my Brother, that he divide the Inheritance with
+<pb n="20" facs="tcp:40667:12"/>me. And he ſaid unto him, Man, Who made me a Judge, or a Divider over you?</hi> And ſo in like manner in the other Caſe, without determinating the Point, which indeed was the only thing that the <hi>Phariſees</hi> expected, that ſo they might entangle him in his talk; and therefore he an<g ref="char:EOLhyphen"/>ſwer'd them,
+<note place="margin">v. 18.</note> 
+               <hi>Why tempt ye me ye Hypocrites,</hi> &amp;c. which was as much as to ſay, You know well enough thoſe things before you ask, you have Rules and Laws which I came not to deſtroy, but to fulfil, <hi>&amp;c.</hi> and then gave the aforeſaid Anſwer on purpoſe to fruſtrate their expecta<g ref="char:EOLhyphen"/>tions, and to put them in mind of what was due to God, as well as to <hi>Ceſar.</hi> So that our Lord's Anſwer was no more a giving of new Rules to know what are <hi>Ceſars,</hi> and what are Gods, than to what ſort of <hi>Ceſars</hi> they become due, well knowing God's Word is ſufficient to inſtruct us how to determin that Caſe.</p>
+            <p>And ſo, according to my promiſe, I have briefly ex<g ref="char:EOLhyphen"/>amin'd thoſe Texts of Scripture which you urged in fa<g ref="char:EOLhyphen"/>vour of your <hi>Caſe of Allegiance,</hi> &amp;c. But having, as you ſee, compared them with others, they do not appear in my judgment to favor it all, and therefore what remains, is the third and laſt thing, <hi>viz.</hi> to draw [from your No<g ref="char:EOLhyphen"/>tion of Providence and Succeſs giving a Right] ſome uſe<g ref="char:EOLhyphen"/>ful Inferences very neceſſary for practical Reformers both of Church and State.</p>
+            <p>And firſt of all, If Power and Succeſs gives a Right, <hi>&amp;c.</hi> than thoſe ſort of People we call <hi>Grumbletonians,</hi> [for I believe there is no Government without] Heaven permitting them as the <hi>Canaanites</hi> were amongſt the Children of <hi>Iſrael</hi> as Thorns in their ſides, may take comfort from this wholſom [and as you call it] <hi>provi<g ref="char:EOLhyphen"/>dential</hi> Doctrin; for notwithſtanding they are in a ſtate of damnation [as the <hi>providential</hi> Inſtruments of our happy by your] all the while they are a plotting and contriving to reſiſt the higher Powers, <hi>&amp;c.</hi>
+               <pb n="21" facs="tcp:40667:12"/>Yet if they have the good Fortune [or Providence ſhould permit them] to get uppermoſt, I preſume then their Caſe may be altered, eſpecially as to this World; but what it may be in the next you have not as yet [in your Caſe] told them.</p>
+            <p>But Secondly, this Doctrin promiſeth the like Conſola<g ref="char:EOLhyphen"/>tion to all the chief Heads of all the Mobilees in all Governments [though never ſo thorowly ſetled] in the World. And a Captain <hi>Tom,</hi> if he can but preach or perſuade [as <hi>Marſinello</hi> did] enow of his Gang to eſpouſe his Cauſe and Intereſt, he may, for ought I can ſee, purchaſe as good a Title to a Crown, as he has to his Commiſſion; and if he ſucceeds [by your Rule] who dare queſtion his Right, ſince you have given it the Di<g ref="char:EOLhyphen"/>vine Stamp, which puts me in mind of what a great Poet ſaid, [in the Character of a Noble Peer who prea<g ref="char:EOLhyphen"/>ched to the Mob much ſuch ſort of Doctrin] and I will make bold [they being much to the Point in hand] to tranſcribe them, only to let you ſee how good Wits jump.</p>
+            <lg>
+               <l>
+                  <hi>He preaches to the Crowd that Power is lent,</hi>
+                  <note place="margin">Midal p. 6.</note>
+               </l>
+               <l>
+                  <hi>But not convey'd to Kingly Government;</hi>
+               </l>
+               <l>
+                  <hi>That Crowns Succeſſive bear no binding Force;</hi>
+               </l>
+               <l>
+                  <hi>That Coronation Oaths are things of Courſe.</hi>
+               </l>
+               <l>
+                  <hi>Maintains the Multitude can never Err,</hi>
+               </l>
+               <l>
+                  <hi>And ſets the People in the Papal Chair.</hi>
+               </l>
+               <l>
+                  <hi>The Reaſon's obvious, Intereſt never lyes,</hi>
+               </l>
+               <l>
+                  <hi>The moſt have ſtill their Intereſt in their Eyes;</hi>
+               </l>
+               <l>
+                  <hi>The Power is always theirs, and Power is ever wiſe.</hi>
+               </l>
+               <l>
+                  <hi>Almighty Crowd. thou ſhortens all Diſpute,</hi>
+               </l>
+               <l>
+                  <hi>Power is thy Eſſence, Wit thy Attribute.</hi>
+               </l>
+               <l>
+                  <hi>Not Faith nor Reaſon make thee at a ſtay,</hi>
+               </l>
+               <l>
+                  <hi>Thou leap'ſt o're all Eternal Truths in thy Pindarick way.</hi>
+               </l>
+               <l>
+                  <pb n="22" facs="tcp:40667:13"/>
+Athens <hi>no doubt did Righteouſly decide</hi>
+               </l>
+               <l>
+                  <hi>When</hi> Phocian <hi>and when</hi> Socrates <hi>was try'd.</hi>
+               </l>
+               <l>
+                  <hi>As Righteouſly they did thoſe Dooms repent,</hi>
+               </l>
+               <l>
+                  <hi>Still they were wiſe whatever way they went.</hi>
+               </l>
+               <l>
+                  <hi>Crowds Err not, tho to both Extremes they run,</hi>
+               </l>
+               <l>
+                  <hi>To kill the Father, and recall the Son.</hi>
+               </l>
+               <l>
+                  <hi>Some think the Fools were moſt as Times went then,</hi>
+               </l>
+               <l>
+                  <hi>But now the World's o'r-ſtockt with prudent Men.</hi>
+               </l>
+               <l>
+                  <hi>The Common Cry is, even Religion's Teſt,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Turks <hi>is at</hi> Conſtantinople <hi>beſt.</hi>
+               </l>
+               <l>
+                  <hi>Idols in</hi> India, <hi>Popery at</hi> Rome,</l>
+               <l>
+                  <hi>And our own Worſhiy only true at home.</hi>
+               </l>
+               <l>
+                  <hi>And true but for the time, 'tis hard to know</hi>
+               </l>
+               <l>
+                  <hi>How long we pleaſe it ſhall continue ſo.</hi>
+               </l>
+               <l>
+                  <hi>This ſide to day, and that to morrow burns,</hi>
+               </l>
+               <l>
+                  <hi>So all are God Almighty's in their turns.</hi>
+               </l>
+               <l>
+                  <hi>A tempting Doctrin, plauſible and new,</hi>
+               </l>
+               <l>
+                  <hi>What Fools our Fathers were if this be true.</hi>
+               </l>
+               <l>
+                  <hi>Who to deſtroy the Seeds of Civil War,</hi>
+               </l>
+               <l>
+                  <hi>Inherent Right in Monarchs did declare.</hi>
+               </l>
+               <l>
+                  <hi>And that a lawful Power might never ceaſe,</hi>
+               </l>
+               <l>
+                  <hi>Secured Succeſſion to ſecure our Peace.</hi>
+               </l>
+               <l>
+                  <hi>Thus Property and Sovereign ſway at laſt,</hi>
+               </l>
+               <l>
+                  <hi>In equal Balances were juſtly caſt.</hi>
+               </l>
+               <l>
+                  <hi>But this new</hi> Jehu <hi>ſpurs the hot-mouth'd Horſe,</hi>
+               </l>
+               <l>
+                  <hi>Inſtructs the Beaſt to know his Native Force,</hi>
+               </l>
+               <l>
+                  <hi>To take the Bitt between his Teeth and flie</hi>
+               </l>
+               <l>
+                  <hi>To the next head-long Sleep of Anarchy.</hi>
+               </l>
+            </lg>
+            <p>And how agreeable this part of the Peer's Character [of preaching to Mobilees] was to his Practice, and your new Notions of Allegiance, let the World judge. 'Tis eaſie to draw divers other Inferences altogether, as uſeful for the Enemies of our <hi>Iſrael,</hi> as theſe two I have
+<pb n="23" facs="tcp:40667:13"/>already named, but they would ſwell this Letter beyond its intended Bounds: And therefore I will haſte towards a Concluſion; for by this time, I preſume,
+<note place="margin">Acts 26.27.</note> I may ask you St. <hi>Paul</hi>'s Queſtion to King <hi>Agrippa, Believeſt thou the Prophets? I know that thou believeſt,</hi> &amp;c. Yet your <hi>Caſe of Allegiance,</hi> &amp;c. would almoſt perſuade a good Chriſtian to doubt it; for your prevaricating, ac<g ref="char:EOLhyphen"/>cording to the different Caſes which at different times happens to fall in your eye, gives cauſe for a juſt ſuſ<g ref="char:EOLhyphen"/>pition. And your two laſt Books has made it too evi<g ref="char:EOLhyphen"/>dent, that you do not (as to what you have formerly told us) believe your ſelf; which muſt conſequently create in us, poor Laymen, melancholy Conſiderations, in that we muſt venture our very Souls upon the Judg<g ref="char:EOLhyphen"/>ment and Integrity of ſuch Prieſts who are as variable as the Weathercocks on the Steeples of the Churches they preach in. For it is not many Years ago that not only your ſelf, but the whole Univerſity of <hi>Oxford</hi> rejected ſuch Doctrines as your Caſe, <hi>&amp;c.</hi> is founded on, witneſs the Judgment and Decree that paſt in their Convocation, <hi>July</hi> 1. 1683. againſt certain Books and damnable Doctrines, (as they were pleaſed to call them) conſiſt<g ref="char:EOLhyphen"/>ing in all of 27 Propoſitions, the 10th of which I will give you in the very words, <hi>&amp;c.</hi> becauſe they are the ſame on which the whole ſtreſs of your Caſe relies on, and I wonder you did not place it amongſt your own. The 10th Propoſition, <hi>&amp;c.</hi> runs thus:</p>
+            <p>
+               <hi>Poſſeſſion and Strength gives a Right to Govern. Suc<g ref="char:EOLhyphen"/>ceſs in a Cauſe or Enterprize, proclaims it to be Lawful and Juſt. To juſtifie it, is to comply with the Will of God, be<g ref="char:EOLhyphen"/>cauſe it is to follow the Conduct of this Providence</hi>
+               <note n="*" place="margin">
+                  <hi>Hebbs, Owen</hi>'s Sermon before the Regicide<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Jan.</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1648. <hi>Baxter, Jenkins</hi>'s Petition, <hi>Oct.</hi> 1651</note>.</p>
+            <p>So you ſee you do but bring up the Rear to all theſe famous Heroes who have march'd before you, fighting the good Fight of Faith, <hi>(in the Good Old Cauſe)</hi> ſome
+<pb n="24" facs="tcp:40667:14" rendition="simple:additions"/>of which have not as yet finiſhed their Courſe, and ſo are ſtill but in expectation of their future Reward, but what that may be is no great matter: For if they grow Rich, and fill their Bags with <hi>Crowns</hi> here, they will truſt to Providence for hereafter. And filling of Bags, you know, is ſuch an Epidemical Diſtemper, that there are few but what are Infected with it. And <hi>Judas</hi> himſelf poſſibly had never coveted to have been one of the Twelve, but for the ſake of carrying the Bag; and ra<g ref="char:EOLhyphen"/>ther than not have it full, for a Sum betray'd his Lord and Maſter. And it is too plain, we all (the Prieſts not excepted) do much more mind the things that belong to our Profit and Preferment here,
+<note place="margin">Luk. 16.8.</note> than our Peace here<g ref="char:EOLhyphen"/>after. And our Saviour has told us, <hi>The Children of this World are in their Generation wiſer than the Children of Light.</hi> But it is ſuch a ſort of Wiſdom which will turn but to a ſlender Account at laſt, and therefore, as our Lord elſewhere ſays,
+<note place="margin">Mat. 16.26.</note> 
+               <hi>What will it profit a Man to gain the whole World, and loſe his own Soul,</hi> &amp;c? But that is not much minded in our days. We may obſerve from the Univerſal Degeneracy of the Age we live in, that Truth and Juſtice, Religion and Loyalty are fled from amongſt us,
+<note place="margin">1 Kings 22.23.</note> and that Almighty God (for our Sins) has (as he once did) permitted <hi>a lying ſpirit to go forth and poſſeſs our Prophets,</hi> ſo that they propheſie falſely, and we love to have it ſo, <hi>&amp;c.</hi> which ſtrengthens the Argument of Heaven's permiſſive Will. And that thoſe Texts cannot (without <hi>abdicating</hi> our Underſtandings) be underſtood in your Senſe of <hi>Providence</hi> and <hi>Succeſs</hi> giving a Right, which is the chief <hi>Baſis</hi> on which your new Fabrick ſtands; but how long it will, Time, and the next change of Stars (if ever there be any) will beſt demonſtrate. And truly ſhould there be as many in your Time, as hap<g ref="char:EOLhyphen"/>ned in the Life of the Famous Vicar of <hi>Bray,</hi> the Scheme
+<pb n="25" facs="tcp:40667:14"/>is ſo nicely drawn, and your Caſe ſo exactly calculated to the purpoſe, that you may without Doubt or Scruple ſwear Faith and Allegiance to them all; nay, though they were all Competitors at the ſame time. And as they happen to be uppermoſt, you have (as you ſay) <hi>God's Authority</hi> for ſo doing. So that you are now (Thanks to Providence) pretty ſafe: For ſhould our <hi>Metropolis</hi> be in as much danger by the <hi>French</hi> (which God forbid) as <hi>Vienna</hi> was not long ſince by the <hi>Turks,</hi> you (no doubt) would, like a good Chriſtian, patiently ſubmit, and pay both a chearful and active Obedience, (from your Notion of <hi>Providence</hi>) judging it <hi>the Lord's doing, though it appear never ſo marvellous in our eyes.</hi> For indeed <hi>Paſſive Obedience</hi> and <hi>Nonreſiſtance</hi> were never more neceſſary as now in your Caſe, <hi>&amp;c.</hi> And yet after all I cannot but be amazed to ſee two ſuch Caſes as your <hi>Reſiſtance</hi> and <hi>Allegiance</hi> come from one and the ſame (I will not ſay Heart, but) Hand, without bluſhing for the matter. But though you do not, I am apt to believe there are ſome (and of your own Function too, that do for you) not ſo much for your taking the Oaths, <hi>&amp;c.</hi> (as no doubt a great many good Men may) but for your giving ſuch Reaſons as reflect upon the Honour and Re<g ref="char:EOLhyphen"/>putation of the Church of <hi>England,</hi> and poſſibly may make many of Her weak Sons believe that She now owns the ſame pernicious Doctrines that her Clergy have been preaching and writing againſt ever ſince the <hi>Reformation,</hi> and ſtrictly forbidding their Hearers the pra<g ref="char:EOLhyphen"/>ctiſing under no leſs Penalty than <hi>Damnation.</hi> But I find the Caſe as well as the Times are altered; <hi>For then was then, and now is now.</hi>
+            </p>
+            <p>But to draw towards a Concluſion, I hope your Chri<g ref="char:EOLhyphen"/>ſtian temper will lead you to a favourable Conſtruction of this Letter, which I'll aſſure you was not (as I ſaid in
+<pb n="26" facs="tcp:40667:15"/>the beginning) deſign'd to reflect on Perſons or Things, but only to expoſe (as well as I could) pernicious Principles, which would, if univerſally receiv'd, quickly throw us from St. <hi>Paul</hi>'s <hi>ſtate of Grace,</hi> to <hi>Hobbs</hi>'s <hi>of Nature.</hi> And what Ad<g ref="char:EOLhyphen"/>vantage that would be <hi>to preſerve Civil Societies,</hi> let the World judge. 'Tis true, you ſay God is not confined to humane Laws, but at the ſame time 'tis reaſonable to ſuppoſe though he be not, you and I, and all Mankind are; and the acting or doing any thing againſt humane Laws, (eſpecially ſuch which do not contradict his) is the ſame thing as breaking of God's Laws. And no doubt the doing ſo, is a <hi>Reſiſting the Higher Power,</hi> and they that Reſiſt ſhall (as you ſay) receive to themſelves <hi>Dam<g ref="char:EOLhyphen"/>nation:</hi> And if ſo, <hi>What is Sawce for a Gooſe, is Sawce for a Gander.</hi> And I know not how any Body (in the laſt Reign as well as in this) that have wilfully, or by chance (in keeping ill Company) fallen into ſuch a mi<g ref="char:EOLhyphen"/>ſerable ſtate, can get free of it, unleſs by a true and hearty Repentance. And <hi>Reſtitution,</hi> where it can be done, <hi>is</hi> (as you uſe to tell us) <hi>the only Evidence of its being Sin<g ref="char:EOLhyphen"/>cere.</hi> And without it, I cannot be perſuaded but that ſuch muſt remain in that lamentable ſtate let them be never ſo proſperous and ſucceſsful, unleſs you think <hi>Suc<g ref="char:EOLhyphen"/>ceſs</hi> can alter the very Nature of Things, which is ſome<g ref="char:EOLhyphen"/>thing difficult to ſuppoſe, though your Caſe, <hi>&amp;c.</hi> ſeems to imply it; which Caſe had it came out in a time of ſuch a <hi>Thorow Settlement</hi> as where there were no Competitors, or any to make a Claim, I dare appeal to all Mankind, Whether it would not have been burnt by the Common Hangman, as a Libel againſt all Eſtabliſhed (and in your own Words, <hi>Thorow Setled</hi>) Governments in the World. And whatſoever your private Advantage may be, I am ſure the Church nor the preſent State are no great Gainers by it: For I am of the Opinion your <hi>Caſe of Allegiance</hi>
+               <pb n="27" facs="tcp:40667:15"/>will no more preſerve either from the Attempts of wicked and rebellious Wretches in this Reign, than your <hi>Caſe of Reſiſtance</hi> did in the laſt. And therefore you may ſpare your pains, (unleſs it be to oblige your Book<g ref="char:EOLhyphen"/>ſeller) for you know this is a wicked and rebellious Nation, which are more apt to follow Example, than Precept. And therefore you did well in leaping (like the Belweather) over the Hedge, which was (I ſuppoſe) in hopes the reſt of the Sheep would follow by the noiſe only. And truly if they do not, I can attribute it to nothing more than their being better taught heretofore by your ſelf and others in thoſe Times, when People generally thought them both orthodox and honeſt. And if what was ſaid to St. <hi>Paul</hi> of Learning, might be truly ſaid of Honeſty, I am perſuaded moſt of our Learned Clergy are pretty well in their Wits: For if <hi>Poſſeſſion gives a Right,</hi> they ought for that Reaſon not to Abdi<g ref="char:EOLhyphen"/>cate their Livings (let what will happen) for fear People ſhould think they were mad, in not acting according to their own Principles. But as the World goes, we may obſerve People act not <hi>as if Godlineſs is great Gain,</hi> but <hi>as if great Gain is Godlineſs.</hi> And if ſo, we may eaſily then gueſs who are the <hi>Babes of Grace,</hi> and the <hi>Provi<g ref="char:EOLhyphen"/>dential Favorites of Heaven.</hi> For ſince (as you ſay) there are <hi>Providential Kings,</hi> as well as Kings by Divine and Humane Intail, and (by your Notions) they have Right, or no Right, but as they ſhall be (by <hi>Providence</hi>) in the Poſſeſſion, then it conſequently follows, that when ever it happens that a Diſpute is between a Legal (which I take to be the ſame as a Divine) Right, and a Provi<g ref="char:EOLhyphen"/>dential, or an Accidental one, for by your Rule there can be no difference) God is then by his Providence (if I may ſo ſay) fighting not only againſt his Divine In<g ref="char:EOLhyphen"/>tail, but his own Eternal Rule, which diſtinguiſheth what is Right and Wrong. And alſo the Doctrine of our
+<pb n="28" facs="tcp:40667:16"/>Lord, and the Apoſtles, <hi>viz.</hi> the leaſt evil in the World ought not to be done, to procure the greateſt good: For St. <hi>Paul</hi> poſitively ſays,
+<note place="margin">Rom. 3.8.</note> 
+               <hi>They that do evil that good may come of it, their damnation is juſt.</hi> Which is a dreadful Conſideration for all thoſe that act by ſuch pernicious Principles, and therefore the Apoſtle does juſtly ſtile ſuch <hi>Enemies to the Croſs of Chriſt.</hi>
+               <note place="margin">Phil. 3.8.</note> And indeed ſo they are, and to all Religion and Civil Government, that pro<g ref="char:EOLhyphen"/>motes ſuch Providential Notions, which ſeems to run counter to the poſitive Commands of the Almighty. And your ſelf, and others of your Coat, has often told us, <hi>We are not to follow Providence contrary to Precept.</hi> And St. <hi>Paul</hi> himſelf (which I preſume was as great and as knowing as any of you) bids us <hi>be followers of him,
+<note place="margin">1 Cor. 11.1.</note> no other ways than he was of Jeſus Chriſt.</hi> Which I think is a good Argument for others diſſenting from you, when you diſſent from your ſelf, and the Truths which formerly you have taught. But, bleſſed be God, though you have Recanted, and as it were taken leave of them, yet they are nevertheleſs Truths for that, and we know where to find them; and it is no ſmall comfort to an honeſt Chriſtian, that no ſuch Republican Principles are to be found in the Doctrines of our bleſſed Saviour and his Apoſtles, nor in the Canons of our Church, notwith<g ref="char:EOLhyphen"/>ſtanding the preſent Opinion and Practices of many of our Churchmen. And therefore 'tis highly rational what St. <hi>Paul</hi> adviſeth,
+<note place="margin">Rom. 16.17, 18.</note> 
+               <hi>Now I beſeech you Brethren, mark them which cauſe Diviſions and Offences, contrary to the Doctrine which ye have learned, and avoid them. For they that are ſuch, ſerve not our Lord Jeſus Chriſt, but their own belly, and by good words and fair ſpeeches deceive the hearts of the ſimple.</hi> Which we find too true, but 'tis to be feared they will deceive themſelves too at the laſt, and then how ſignificant and to the purpoſe will it be to ask the Apoſtle's Queſtion, <hi>What fruit had ye then in thoſe
+<pb n="29" facs="tcp:40667:16"/>things whereof ye are now aſhamed?</hi>
+               <note place="margin">Rom. 2.21.</note> But to draw (as you uſe to ſay) towards a Concluſion, I will end where you began, <hi>viz.</hi> with one Obſervation on the Title of your Book, in the following Words, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>The Caſe of Allegiance to Sovereign Powers ſtated and reſolved according to Scripture and Reaſon, and the Prin<g ref="char:EOLhyphen"/>ciples of the Church of</hi> England, <hi>&amp;c.</hi>
+            </p>
+            <p>Now as for Scripture, I think I have (and from your own former Sentiments of it) demonſtrated that your Caſe will not ſtand that Teſt. But then ſecondly, for it's being agreeable to Reaſon, I ſhall (as being no Pre<g ref="char:EOLhyphen"/>tender to it) leave that to thoſe who think themſelves the only Criticks and Maſters of it. But for the third and laſt, it being according to the Principles of the Church of <hi>England,</hi> is ſo aſtoniſhing that I know not well what to anſwer, ſave only that if it be, 'tis a Se<g ref="char:EOLhyphen"/>cret that has lay'n a long time concealed, as if Provi<g ref="char:EOLhyphen"/>dence had not only reſerved it for theſe times, but alſo deſigned you the happy Inſtrument of diſcovering ſo <hi>convenient</hi> a (Mufftich) Providential Doctrine ſo abſo<g ref="char:EOLhyphen"/>lutely neceſſary in a Chriſtian Church.</p>
+            <p>And now I dare appeal to all the proper Judges of Scripture and Reaſon, and the Principles of the Church of <hi>England,</hi> not excepting your ſelf, (though you ſet up for one of the chief) whether your Caſe, <hi>&amp;c.</hi> have anſwer'd (ſave only in the price of the Copy) your own Expectations, which were, I preſume, to convince all Proteſtants of the Reaſonableneſs of your Providen<g ref="char:EOLhyphen"/>tial <hi>Hypotheſis,</hi> which you indeed take for granted, and drive, <hi>Jehu</hi>-like, as if you had receiv'd Heaven's Commiſ<g ref="char:EOLhyphen"/>ſion to baniſh all the contrary Opinions out of the World. For you argue with all the Aſſurance, as if it was as plain as a Pike-ſtaff, and as demonſtrable as any Point in the Mathematicks, and that your ſelf was never in the Right (as to your <hi>Providential Rulers</hi>) till this
+<pb n="30" facs="tcp:40667:17" rendition="simple:additions"/>happy Juncture, <hi>&amp;c.</hi> But what makes it more accep<g ref="char:EOLhyphen"/>table at preſent is, the advantage the Proteſtant Religion has gained by your not complying with the <hi>Providential Settlement</hi> (till ſuch time as you were in danger to have loſt all) which no doubt was likewiſe the <hi>Providential</hi> Occaſion of your more earneſt ſeeking of God, and ma<g ref="char:EOLhyphen"/>king inquiry into (not the revealed, but) the ſe<g ref="char:EOLhyphen"/>cret Will of God (which is a Note beond <hi>Elah</hi>) touching thoſe matters, without which the Church of <hi>ENGLAND</hi> perhaps might have continued an<g ref="char:EOLhyphen"/>other Century or two without the happineſs of ſuch a <hi>convenient Doctrine.</hi> And that which makes it ſo to you, is worth obſerving; for if hereafter ſome ill Men (which <hi>neither underſtands you nor Hobbs</hi>) ſhould throw it in your Diſh that you writ in defence of King <hi>William</hi> and Queen <hi>Mary</hi>'s Right, <hi>&amp;c.</hi> You may truly anſwer, it was no more for them than it was for Captain <hi>Tom,</hi> or any Body elſe that can get into the Saddle, for there your <hi>Providence</hi> centers them. And when they are ſo fixt, they cannot (as you ſay) be without the Divine Au<g ref="char:EOLhyphen"/>thority; ſo that you need never write more on that Sub<g ref="char:EOLhyphen"/>ject, for 'tis impoſſible for any Government to trump up that your Caſe, <hi>&amp;c.</hi> will not as well ſerve as it does the preſent, for which I think our moſt <hi>Gracious King and Queen</hi> have no great Cauſe to thank you. But if they do not, there are others that will, <hi>viz.</hi> our Common<g ref="char:EOLhyphen"/>wealth Friends, only I muſt tell you by the way, they are angry with you for two things: The firſt is, that you did not ſooner meet with their ſpiritual Shuff to the heavy A—Chriſtian. And the ſecond, for your making it a Church of <hi>England</hi> Doctrine, when their Belief of the contrary was one of the chief Reaſons of their deſerting from it. But now you have taken down (as to that Point) the Partition-wall, and if you would be but as kind in other matters (as they think) of leſs moment,
+<pb n="31" facs="tcp:40667:17"/>no doubt you might bring them all within the Pale, <hi>&amp;c.</hi> And truly ſince you have been ſo generous as to part with your darling, diſtinguiſhing Doctrine of conſtant, ſteady, and unſophiſticated Loyalty to your Prince, which you learned from the Principles of your Church, as the <hi>London</hi> Clergy pleaſed to ſay
+<note n="*" place="margin">London Gazette, Febr. 16. 1684.</note> in their Addreſs to the late King <hi>James,</hi> I think it would not be amiſs (for ſo great a good) to gratifie them with the reſt, without which 'tis to be feared they will ſtill <hi>ſtick</hi> where they did <hi>ſtick,</hi> and you know how cloſely they always ſtuck to the Intereſt of the Crown and the Church, and there<g ref="char:EOLhyphen"/>fore it would be worth while to gain to you ſo conſide<g ref="char:EOLhyphen"/>rable a number of Friends. But (as our Lord told the <hi>Scribes</hi> and <hi>Phariſees</hi>) you are ſo nice and exact in pay<g ref="char:EOLhyphen"/>ing of <hi>Mint</hi> and <hi>Cumin,</hi> that you omit the more weigh<g ref="char:EOLhyphen"/>ty things of the Law, <hi>viz. Juſtice, Mercy and Truth,</hi> &amp;c. though indeed neither is to be left undone. And yet if ever it could be thought convenient, I confeſs this is the only time to judge it tolerable, if not neceſſary, to ſettle (as in <hi>Scotland</hi>) a Religion ſuitable to the Inclinations of the People, and that may poſſibly fill up the Vacan<g ref="char:EOLhyphen"/>cies of thoſe that cannot ſwallow your <hi>Turkiſh Providen<g ref="char:EOLhyphen"/>tial Pill,</hi> notwithſtanding its being ſo nicely and Philo<g ref="char:EOLhyphen"/>ſophically prepared and gilded over by ſo famous a Chri<g ref="char:EOLhyphen"/>ſtian Doctor. But the Experiment is altogether new, and till of late hardly amongſt us known, but never pra<g ref="char:EOLhyphen"/>ctiſed by good Chriſtians, and therefore the Apoſtle may very juſtly upbraid us, as he once did the <hi>Galatians,
+<note place="margin">Gal. 3.1.</note> O fooliſh Galatians, who hath bewitched you, that you ſhould not obey the Truth,</hi> &amp;c. And truly unleſs we are ſo, we could not be ſo groſly impoſed upon, as to be whiffled about <hi>with every new wind of Doctrine.</hi> To prevent which, <hi>Solomon,</hi> I think, gives the beſt Advice in the World,
+<note place="margin">Prov. 24.21.</note> 
+               <hi>My Son, fear thou the Lord, and the King: and meddle not with them that are given to change.</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:40667:18"/>
+But I will conclude all with an Obſervation of one remarkable Paſſage in your <hi>Preface,</hi> in the following Words, viz. <hi>I prayed heartily to God that if I were in a Miſtake, he would let me ſee it, that I might not forfeit the Exerciſe of my Miniſtry for a mere Miſtake, and, I thank God, I have received that Satisfaction which I deſired.</hi>
+            </p>
+            <p>(Which I preſume no Body doubts.) And I ſuppoſe the foregoing Words are to ſatisfie the World, that you received better ſatisfaction from your hearty praying to God, than from the Convocation-Book. If not, why is it made uſe of as an Argument of freeing you from a ſuppoſed Doubt; for you were, or you were not ſatisfied before your praying, <hi>&amp;c.</hi> Now if you were, then it was needleſs and impertinent to pray to God to let you ſee your Miſtake, when there was none. If not, then 'tis plain your Satisfaction was not owing to B. <hi>Overill</hi>'s Book, but to your hearty praying, <hi>&amp;c.</hi> But after all, how ſhall any other Body be ſatisfied that your Satisfa<g ref="char:EOLhyphen"/>ction in that Caſe was owing to your praying to God, <hi>&amp;c.</hi> Or that he was pleaſed to illuminate your Underſtanding ſo, as to give a better Expoſition of <hi>Rom.</hi> 13. than you had done heretofore in <hi>your Caſe of Reſiſtance.</hi> But give me leave to put a Caſe: Suppoſe a Man had a mind or incli<g ref="char:EOLhyphen"/>nation to do ſome particular thing which is Ill in its own Nature, or perhaps he is in ſome doubt whether it be or no; but the better to inform his Judgment, he goes and prays heartily to God for a Satisfaction touching the Lawfulneſs of the Matter, (though poſſibly he might be reſolved to do it before.) After which, finding his de<g ref="char:EOLhyphen"/>ſires more ſtrong, and his inclination to do it rather in<g ref="char:EOLhyphen"/>creaſed than abated, is he then to take it for granted, that God has anſwer'd his Requeſt, and that he is ſure he is in the Right in doing the ſaid Ill, or doubtful Thing. If ſo, then <hi>Cromwel,</hi> and others of the Regicides that murder'd <hi>Charles</hi> I. was in the Right alſo, for divers of them made
+<pb n="33" facs="tcp:40667:18"/>uſe of the ſame Plea. And <hi>Harriſon</hi> at his Tryal ſeem'd to be angry at thoſe Words in his Indictment, <hi>Of not ha<g ref="char:EOLhyphen"/>ving the Fear of God before his Eyes, but by the Inſtigation of the Devil,</hi> &amp;c. For he ſaid, <hi>He always had the Fear of God before his Eyes, and ſought him Night and Day with Tears, till he received</hi> (like you) <hi>ſuch Satisfaction as be deſired.</hi> And ſo conſequently <hi>it was the Lord's Work,</hi> (as it was called in thoſe Days) though done by the ways of the Devil. But we all know this ridiculous Plea would be admitted before an earthly Tribunal, and whether it will before an heavenly one, do you judge: For then I am afraid it will be to little purpoſe our ſaying, <hi>We thought, or we believed, and heartily prayed, and received ſuch Satisfa<g ref="char:EOLhyphen"/>ction as we deſired, that we were in the Right,</hi> (though at the ſame time perhaps we were conſcious of breaking God's poſitive Commands.)
+<note place="margin">Mat. 7.22, 23.</note> And though we ſhould preſs the matter yet further, (as our Lord ſays) <hi>Many will ſay to me in that day, Lord, Lord, have we not propheſied in thy Name, and in thy Name caſt out Devils, and in thy Name do many wonderful Works?</hi> And then I will profeſs unto them, <hi>I never knew you, depart from me that work Iniquity.</hi> From all which 'tis rational to conclude, That the receiv<g ref="char:EOLhyphen"/>ing of ſuch a Satisfaction as you (and others before you) talk of, <hi>after praying,</hi> &amp;c. is not a ſufficient Reaſon for their doing any thing they have a mind to do, unleſs it be in its own Nature good, and not contrary to the writ<g ref="char:EOLhyphen"/>ten Word of God, which is a better Rule to direct us in thoſe matters, than any ſuch Phanatical, Enthuſiaſtick Notions. I do not mean <hi>of praying to God,</hi> which with<g ref="char:EOLhyphen"/>out doubt nothing, if ſincere, can be better; but draw<g ref="char:EOLhyphen"/>ing from thence ſuch unwarrantable Conſequences, which you cannot but know have been made uſe of as a colour for the worſt of Villanies, and I am perſuaded there are few but believe you were as well ſatisfied (as to your Miſtake) <hi>before,</hi> as <hi>after praying,</hi> &amp;c. for what relation had
+<pb n="34" facs="tcp:40667:19"/>ſuch ſort of <hi>Cant</hi> to Mr. <hi>Jenkins,</hi> and your <hi>Turkiſh Pre<g ref="char:EOLhyphen"/>deſtinarian Hypotheſis;</hi> for if that were ever true, it will always remain ſo, if neither ne nor you had never preachd or pray'd in your Lives. And ſuppoſing it true in ſpite of all your nice Diſtinctions, there is no ſucceſsful Villany that has been done ſince the Creation but may be juſtifi'd. Nay, the very Surrender of <hi>Mons</hi> to the <hi>French</hi> King (by the ſame Rule) muſt be thought very juſt and reaſonable, becauſe he having ſet down before it armed with your Authority <hi>(of having Power to cruſh them into Obedience)</hi> and by ſhutting your Reaſons into the Town,
+<note place="margin">Pag. 6.</note> gave the Inhabitants a Mathematical Demonſtration of his having a <hi>Providential Title</hi> to be their <hi>Lawful King</hi> and <hi>Governor,</hi>
+               <note place="margin">Pag. 6.</note> without intrenching upon the K. of <hi>Spain</hi>'s legal Right; <hi>for he,</hi> as well as the late King <hi>James, may recover it again if he can.</hi> From which Argument we may infer, That the ſame <hi>Providence</hi> that removes a Prince from his Crown and Legal Rights, or Them from him, may (as in King <hi>Charles</hi> the Second's Caſe) reſtore them again, without Wrong being done to any Body all the while, becauſe (as you ſay) <hi>'tis the work of Providence, and the Perſon in Poſſeſſion is always in the Right.</hi> Which I confeſs is good News for great Princes, though bad for little ones; for if Strength and Force be the only determination of Right and Wrong, Religion and Laws will quickly become uſeleſs, and then I am ſure your Profeſſion as well as mine will be none of the beſt: But ſuch wiſe and great Men as you may ſay what they pleaſe. But for my part, I could as eaſily be perſuaded that there is no God, as believe his moſt holy Commandments may be broke for the publick Good; or that we may follow our own ſcanty Notions of <hi>Provi<g ref="char:EOLhyphen"/>dence contrary to Precept.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
